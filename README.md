@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,webpack,jest,bash,nodejs,git,github,netlify,vscode&perline=8" />
   </a>
