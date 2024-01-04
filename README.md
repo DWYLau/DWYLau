@@ -12,7 +12,7 @@
 
 ---
 
-> [Portfolio(https://dwylau.github.io/portfolio/)
+> [Portfolio](https://dwylau.github.io/portfolio/)
 
 <p align="center">
   <a href="https://skillicons.dev">
