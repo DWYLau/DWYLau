@@ -1,3 +1,7 @@
+###
+
+---
+
 - Front-end developer living in Yokohama, Japan.
 - Actively studying web development via The Odin Project for almost 2 years.
 - I am passionate about crafting and seeing projects come to life.
