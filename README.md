@@ -14,9 +14,13 @@
 
 - [Portfolio](https://dwylau.github.io/portfolio/)
 
+### Skills & Technologies
+
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,webpack,jest,bash,nodejs,git,github,netlify,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,webpack,jest,bash,nodejs,git,github,netlify,vscode&perline=8" />
   </a>
 </p>
 
