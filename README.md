@@ -2,7 +2,7 @@
 
 ---
 
-- Full-stack developer living in Yokohama, Japan.
+- Mobile Applications Engineer living in Yokohama, Japan.
 
 ### Portfolio
 
