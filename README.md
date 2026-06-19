@@ -2,7 +2,13 @@
 
 ---
 
-- Mobile Applications Engineer
+- Mobile Applications Engineer (Flutter)
+- ENG/JP
+
+Bilingual engineer with experience developing mobile and web applications. 
+I specialize in Flutter and enjoy creating scalable, clean solutions across both Android and iOS platforms. 
+In my free time, I build personal projects using Flutter and React.js to stay current with modern development practices.
+
 ### Portfolio
 
 ---
